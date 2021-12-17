@@ -1,0 +1,9 @@
+.item {
+  transition: all 0.9s;
+  max-height: 100vh;
+}
+
+.collapsed {
+  max-height: 0;
+  overflow: hidden;
+}
